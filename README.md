@@ -8,7 +8,7 @@ Content:-
 
 In the dataset, You'll get data of different stores of a supermarket company as per their store IDs which for ease has been converted to positive integers.
 
-Store ID: (Index) ID of the particular store.
+-> Store ID: (Index) ID of the particular store.
 
 Store_Area: Physical Area of the store in yard square.
 
