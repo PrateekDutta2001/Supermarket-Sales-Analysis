@@ -19,3 +19,5 @@ DailyCustomerCount: Number of customers who visited to stores on an average over
 Store_Sales: Sales in (US $) that stores made.
 
 creator:-
+
+Prateek Dutta, Author|Research Scholar, India
