@@ -17,3 +17,5 @@ Items_Available: Number of different items available in the corresponding store.
 DailyCustomerCount: Number of customers who visited to stores on an average over month.
 
 Store_Sales: Sales in (US $) that stores made.
+
+creator:-
